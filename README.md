@@ -1,6 +1,7 @@
 Might Work Group Project
 
 **P2 Submission:** [Project Requirements](docs/requirements/P2.docx)
+
 **P3 Submission:** [Project Plan](docs/plan/P3.docx)
 
 **Alternative Formats Available:**
