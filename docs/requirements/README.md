@@ -1,10 +1,14 @@
-# P2 Requirements Index
+# P2 & P3 Requirements Index
 
 ## Project Documentation
 
-**Official Submission:** [P2.docx](P2.docx) - Primary submission format
+**P2 Official Submission:** [P2.docx](P2.docx) - Primary submission format
 
-**Development Version:** [P2.md](P2.md) - Staged markdown requirements
+**P2 Development Version:** [P2.md](P2.md) - Staged markdown requirements
+
+**P3 Official Submission:** [P3.docx](../plan/P3.docx) - Primary submission format
+
+**P3 Development Version:** [P3.md](../plan/P3.md) - Staged markdown requirements
 
 **Additional Notes:**
 - [clyan-notes.md](clyan-notes.md)
