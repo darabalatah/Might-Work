@@ -1,2 +1,3 @@
-Might work group project
-P2 submission: [Project Requirements](docs/requirements/P2.docx)
+Might Work Group Project
+
+**P2 Submission:** [Project Requirements](docs/requirements/P2.docx)
